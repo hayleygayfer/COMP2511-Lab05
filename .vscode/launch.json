@@ -5,7 +5,8 @@
             "name": "Launch GameOfLifeApplication",
             "request": "launch",
             "mainClass": "unsw.automata.GameOfLifeApplication",
-            "vmArgs": "--module-path ./lib/symlink_javafx --add-modules javafx.controls,javafx.fxml -enableassertions"
+            "projectName": "21T2-cs2511-lab05_db31e954",
+            "vmArgs": "--module-path ./lib --add-modules javafx.controls,javafx.fxml,javafx.media -enableassertions"
         }
     ]
 }
